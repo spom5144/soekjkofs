@@ -3,3 +3,7 @@
 app/build/
 build/
 local.properties
+
+# C# Build Artifacts
+AndroidUnlockerPro/bin/
+AndroidUnlockerPro/obj/
