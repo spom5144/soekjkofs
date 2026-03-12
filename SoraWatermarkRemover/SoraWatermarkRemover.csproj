@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <!-- <ApplicationIcon>app.ico</ApplicationIcon> -->
+    <AssemblyName>SoraWatermarkRemover</AssemblyName>
+    <Version>1.0.0</Version>
+    <Company>ป้อม Developer</Company>
+    <Product>Sora AI Watermark Remover</Product>
+    <Description>โปรแกรมลบลายน้ำ Sora AI - พัฒนาโดย ป้อม</Description>
+  </PropertyGroup>
+
+</Project>
